@@ -16,6 +16,7 @@ This project was carried out as part of our academic exploration in Population H
 - Explored the role of AI in clinical decision-making to enable real-time care interventions from a distance.
 - Identified infrastructure limitations and user-related barriers specific to low-resource populations.
 - Proposed improvements aimed at enhancing usability, scalability, and integration with national health systems.
+[PHI Explo Research.pdf](https://github.com/user-attachments/files/19781428/PHI.Explo.Research.pdf)
 
 ---
 
@@ -37,4 +38,6 @@ This project was carried out as part of our academic exploration in Population H
 - Focused on usability, patient experience, and digital access challenges in remote environments.
 - Contributed to documentation and visualization of key results for academic presentation.
 
-
+### Project Files and Presentations
+[PHI Explo Research.pdf](https://github.com/user-attachments/files/19781430/PHI.Explo.Research.pdf)
+[Project Presentation Group 9.pdf](https://github.com/user-attachments/files/19781442/Project.Presentation.Group.9.pdf)
