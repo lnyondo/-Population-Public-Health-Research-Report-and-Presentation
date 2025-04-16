@@ -5,7 +5,7 @@
 
 ### 📌 Research Focus
 This exploratory research project was collaboratively conducted to examine how artificial intelligence (AI) and predictive analytics can support early detection, remote monitoring, and overall management of Type 2 Diabetes Mellitus (T2DM) in underserved and resource-constrained communities.
-### 💡 Purpose
+### 💡 Project Purpose
 This project was carried out as part of our academic exploration in Population Health Informatics. It aims to bridge the digital divide in chronic disease care and highlight the potential of AI-driven tools in improving health outcomes where traditional healthcare access is limited.
 
 ---
